@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { Nav } from 'react-bootstrap'
 import { Link, withRouter } from 'react-router-dom'
 

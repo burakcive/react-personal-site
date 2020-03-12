@@ -26,7 +26,43 @@ export const blogs = [
     {
         id: 4,
         name: "Random Post",
-        tags: "Random|Thougts",
+        tags: "Random|Thoughts",
+        createdOn: new Date(),
+        modifiedOn: new Date().getUTCDate(),
+        body: "Morbi fermentum ultricies enim at vehicula. Ut quis neque sit amet turpis pellentesque iaculis. In iaculis convallis arcu, non ultricies mi consectetur quis. Vivamus a interdum mi. Aenean sit amet convallis ex. Nulla facilisis eget ante et pretium. Pellentesque eu felis ex. Etiam a justo quis leo aliquet congue. Fusce tempor odio eros, at vestibulum odio lobortis in. Aenean mollis turpis quis ligula suscipit consequat. Pellentesque ac convallis tortor.",
+    }
+    ,
+    {
+        id: 5,
+        name: "LELE",
+        tags: "Random|Thoughts",
+        createdOn: new Date(),
+        modifiedOn: new Date().getUTCDate(),
+        body: "Morbi fermentum ultricies enim at vehicula. Ut quis neque sit amet turpis pellentesque iaculis. In iaculis convallis arcu, non ultricies mi consectetur quis. Vivamus a interdum mi. Aenean sit amet convallis ex. Nulla facilisis eget ante et pretium. Pellentesque eu felis ex. Etiam a justo quis leo aliquet congue. Fusce tempor odio eros, at vestibulum odio lobortis in. Aenean mollis turpis quis ligula suscipit consequat. Pellentesque ac convallis tortor.",
+    }
+    ,
+    {
+        id: 6,
+        name: "FAFA",
+        tags: "Random|Thoughts",
+        createdOn: new Date(),
+        modifiedOn: new Date().getUTCDate(),
+        body: "Morbi fermentum ultricies enim at vehicula. Ut quis neque sit amet turpis pellentesque iaculis. In iaculis convallis arcu, non ultricies mi consectetur quis. Vivamus a interdum mi. Aenean sit amet convallis ex. Nulla facilisis eget ante et pretium. Pellentesque eu felis ex. Etiam a justo quis leo aliquet congue. Fusce tempor odio eros, at vestibulum odio lobortis in. Aenean mollis turpis quis ligula suscipit consequat. Pellentesque ac convallis tortor.",
+    }
+    ,
+    {
+        id: 7,
+        name: "TETE",
+        tags: "Random|Thoughts",
+        createdOn: new Date(),
+        modifiedOn: new Date().getUTCDate(),
+        body: "Morbi fermentum ultricies enim at vehicula. Ut quis neque sit amet turpis pellentesque iaculis. In iaculis convallis arcu, non ultricies mi consectetur quis. Vivamus a interdum mi. Aenean sit amet convallis ex. Nulla facilisis eget ante et pretium. Pellentesque eu felis ex. Etiam a justo quis leo aliquet congue. Fusce tempor odio eros, at vestibulum odio lobortis in. Aenean mollis turpis quis ligula suscipit consequat. Pellentesque ac convallis tortor.",
+    }
+    ,
+    {
+        id: 8,
+        name: "KEKEte",
+        tags: "Random|Thoughts",
         createdOn: new Date(),
         modifiedOn: new Date().getUTCDate(),
         body: "Morbi fermentum ultricies enim at vehicula. Ut quis neque sit amet turpis pellentesque iaculis. In iaculis convallis arcu, non ultricies mi consectetur quis. Vivamus a interdum mi. Aenean sit amet convallis ex. Nulla facilisis eget ante et pretium. Pellentesque eu felis ex. Etiam a justo quis leo aliquet congue. Fusce tempor odio eros, at vestibulum odio lobortis in. Aenean mollis turpis quis ligula suscipit consequat. Pellentesque ac convallis tortor.",

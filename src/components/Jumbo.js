@@ -1,7 +1,6 @@
 import React from 'react'
 import { Jumbotron, Container } from 'react-bootstrap'
 
-
 const Jumbo = () => {
     return (
         <React.Fragment>
